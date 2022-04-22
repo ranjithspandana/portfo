@@ -8,7 +8,7 @@ mccabe==0.6.1
 pbr==5.4.4
 Pillow==7.0.0
 pylint==2.4.4
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 six==1.13.0
 some-package==0.1
 stevedore==1.31.0
